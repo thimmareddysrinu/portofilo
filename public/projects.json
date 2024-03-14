@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "School management",
+      "category": "Full stackWeb development",
+      "image": "images/newschool.jpg"
+    },
+    {
+      "id": 2,
+      "title": "To Do List",
+      "category": "Full stackWeb development",
+      "image": "images/todolist.jpg"
+    },
+    {
+      "id": 3,
+      "title": "  E-commerce site",
+      "category": "python web developement",
+      "image": "images/project-3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "house rent Store",
+      "category": "python web developement",
+      "image": "images/project-3.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Learning platform",
+      "category": "python web developement",
+      "image": "images/project-5.png"
+    },
+    {
+      "id": 6,
+      "title": "Portfilo",
+      "category": "React js",
+      "image": "images/project-6.png"
+    },
+    {
+      "id": 7,
+      "title": "Blogs",
+      "category": "React js",
+      "image": "images/project-7.png"
+    },
+    {
+      "id": 8,
+      "title": "Task Manager",
+      "category": "React js",
+      "image": "images/project-8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Authentication System",
+      "category": "Full stackWeb development",
+      "image": "images/project-9.png"
+    }
+  ]
+  
